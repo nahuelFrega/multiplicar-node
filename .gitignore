@@ -1,6 +1,5 @@
-
-
-
 node_modules/
 
 archivos/*.txt
+
+.DS_store
